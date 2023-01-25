@@ -3,7 +3,7 @@
 I am a highly motivated college sophomore with excellent leadership, communication, and presentation skills.  I am a passionate and fast learner interested in pursuing a career in machine learning and data analysis or software development.  I am really interested in solving meaningful problems using machine learning, optimization methods, and software development.
 
 Programming Skills: OOP / DATA STRUCTURES / ALGORITHMS / TIME COMPLEXITY ANALYSIS / TEST DRIVEN DEVELOPMENT  
-Programming Languages: JAVA / PYTHON / OCAML / JAVASCRIPT / HTML / C++  
+Programming Languages: JAVA / PYTHON / OCAML / JAVASCRIPT / HTML / SQL / TABLEAU / C++
 Development Tools: GIT / VSCODE / ATOM / ECLIPSE  
 
 - 🔭 I’m currently working on implementing HashLife which utilizes a quadtree and memoization to efficiently simulate John Conway's Game of Life in OCaml.  My end goal is to develop a turing machine within the game.  I am also working on developing AI to solve my Flappy Bird clone using neuroevolution as well as developing and maintaining an interactive website for The Wardrobe at Cornell.  
