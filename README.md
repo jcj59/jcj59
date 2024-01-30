@@ -18,7 +18,7 @@ Development Tools: GIT / VSCODE / LINUX / JUPYTER NOTEBOOK / INTELLIJ / ECLIPSE
 - ⚡ Fun facts: I recently participated in the 2023 Ragnar Reach the Beach relay race with a Cornell Running Club team, and we collectively ran 200 miles in less than 24 hours (1st place finish overall for the mixed gender division!) and I am preparing for the coming track season as well as the 2024 Seneca7 relay race where a team of 7 will collectively run 77 miles around Seneca Lake. Last year we won the whole event, so the pressure is on to defend our title! 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/jack-jansons-206b52220/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/jack-jansons-206b52220/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/jcj59)
 
 
 <!--
